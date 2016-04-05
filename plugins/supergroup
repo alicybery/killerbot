@@ -80,6 +80,3 @@ return {
   },
   run = run
 }
-
---shared by @Pluginlua
---by SuperDeveloper
